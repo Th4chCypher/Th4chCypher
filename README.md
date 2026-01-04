@@ -1,12 +1,12 @@
-# Hi there, I'm Vo Van Thach! 👋
+# Hi there, I'm Vo Van Thach! 
 
-### 🛡️ IoT Security Researcher | Embedded Pentester
+###  IoT Security Researcher | Embedded Pentester
 
 I am an undergraduate student with a passion for **Hardware Hacking** and **IoT Security**. My goal is to understand how devices work and how to secure them against cyber threats.
 
-- 🔭 I’m currently exploring **ESP32 & Microcontrollers**.
-- ⚡ I love **Reverse Engineering** and **CTF**.
-- 🎯 Current Focus: **Embedded Systems** & **Network Security**.
+-  I’m currently exploring **ESP32 & Microcontrollers**.
+-  I love **Reverse Engineering** and **CTF**.
+-  Current Focus: **Embedded Systems** & **Network Security**.
 
 ---
 
@@ -20,8 +20,7 @@ I am an undergraduate student with a passion for **Hardware Hacking** and **IoT 
 
 ---
 
-### ⚡ Hobbies & Interests
+###  Hobbies & Interests
 
-- 🎧 **Music**: I enjoy listening to music while coding.
-- 🚁 **FPV Drones**: Building and flying custom quadcopters.
-- 🏋️ **Calisthenics**: Street workout and bodyweight training.
+-  **Music**: I enjoy listening to music while coding.
+-  **FPV Drones**: Building and flying custom quadcopters.
